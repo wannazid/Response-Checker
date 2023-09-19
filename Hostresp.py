@@ -1,3 +1,4 @@
+# Host Response Checker v1.0 by Wannazid 
 import ssl
 import requests
 import argparse
