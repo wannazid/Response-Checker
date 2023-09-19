@@ -23,7 +23,7 @@ cd Response-Checker
 ```
 pip install -r requirements.txt
 ```
-- Berhasil
+- Berhasil, tinggal mau pake mode single/multi
 # Mode
 ## Single Target
 ```
