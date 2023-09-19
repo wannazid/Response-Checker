@@ -14,12 +14,48 @@ pkg install python && pkg install git && pkg install python-pip
 ```
 git clone https://github.com/wannazid/Response-Checker
 ```
-
-
-
-
-
-
+- Masuk Repository
+```
+cd Response-Checker
+```
+- Install Requirement
+```
+pip install -r requirements.txt
+```
+- Berhasil
+# Mode
+## Single Target
+```
+python3 Hostresp.py -s [domain] -r [filesresult]
+```
+- Example
+```
+python3 Hostresp.py -s axis.co.id -r hasil.txt
+```
+## Multi Target
+```
+python3 Hostresp.py -m [filestarget] -r [filesresult]
+```
+- Example
+```
+python3 Hostresp.py -m domain.txt -r hasil.txt
+```
+## Proxy Mode (Opsional)
+Gunakan -proxy [ip:port] jika ingin get menggunakan proxy
+- Example
+```
+python3 -s axis.co.id -r hasil.txt -proxy 123.123.123:8080
+```
+# Fitur
+- [-s] Single target
+- [-m] Multi target
+- [-r] Saving result
+- [-proxy] Use proxy get (opsional)
+- Fast checking (use thread)
+# Format Result
+```python
+[*] axis.co.id |
+```
 
 
 
