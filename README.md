@@ -6,14 +6,11 @@ Response Checker merupakan tool berbasis CLI yang berfungsi untuk mendapatkan be
 ```
 pkg update && pkg upgrade
 ```
-- Install Python (Termux)
+- Install Python,Git,PIP (Termux)
 ```
-pkg install python
+pkg install python && pkg install git && pkg install python-pip
 ```
-- Install Git (Termux)
-```
-pkg install git
-```
+
 
 
 
