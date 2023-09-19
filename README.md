@@ -10,8 +10,10 @@ pkg update && pkg upgrade
 ```
 pkg install python && pkg install git && pkg install python-pip
 ```
-
-
+- Clone Repository
+```
+git clone https://github.com/wannazid/Response-Checker
+```
 
 
 
