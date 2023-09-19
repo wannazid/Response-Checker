@@ -2,7 +2,7 @@
 Response Checker merupakan tool berbasis CLI yang berfungsi untuk mendapatkan beberapa informasi header, sni, open port suatu website.
 # Cara Install
 - Gunakan terminal contohnya jika di android : Termux.
-- Masuk Termux dan update dengan command.
+- Masuk Termux masukan command.
 ```
 pkg update && pkg upgrade
 ```
@@ -54,9 +54,7 @@ python3 -s axis.co.id -r hasil.txt -proxy 123.123.123:8080
 - Fast checking (use thread)
 # Format Result
 ```python
-[*] axis.co.id |http_status_code|server_name|open_port|protocol_version
+[*] axis.co.id |http_status_code|server_name|open_port|protocol_version|
 ```
-
-
-
-
+# Support 
+Dengan star dan memakai tool ini sudah sangat mensupport saya:)
