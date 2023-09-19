@@ -54,7 +54,7 @@ python3 -s axis.co.id -r hasil.txt -proxy 123.123.123:8080
 - Fast checking (use thread)
 # Format Result
 ```python
-[*] axis.co.id |
+[*] axis.co.id |http_status_code|server_name|open_port|protocol_version
 ```
 
 
