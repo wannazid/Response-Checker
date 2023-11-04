@@ -2,6 +2,10 @@
 ![](https://img.shields.io/badge/HostResponse-Version%202.0-orange)
 # Response Checker
 Response Checker merupakan tool berbasis CLI yang berfungsi untuk mendapatkan beberapa informasi header, sni, open port suatu website.
+# Apa yang baru?
+- Support input ip address in single/multi
+- Add result ip address domain
+- Code adjustments
 # Cara Install
 - Gunakan terminal contohnya jika di android : Termux.
 - Masuk Termux masukan command.
