@@ -26,6 +26,7 @@ pip install -r requirements.txt
 - Berhasil, tinggal mau pake mode single/multi
 # Mode
 ## Single Target
+Single target untuk 1 yang di scan ip maupun domain.
 ```
 python3 Hostresp.py -s [domain] -r [filesresult]
 ```
@@ -34,6 +35,7 @@ python3 Hostresp.py -s [domain] -r [filesresult]
 python3 Hostresp.py -s axis.co.id -r hasil.txt
 ```
 ## Multi Target
+Multi target sangat cocok untuk scan banyak domain/ip dengan memasukannya dalam list txt files.
 ```
 python3 Hostresp.py -m [filestarget] -r [filesresult]
 ```
@@ -55,7 +57,8 @@ python3 -s axis.co.id -r hasil.txt -proxy 123.123.123:8080
 - Fast checking (use thread)
 # Format Result
 ```python
-[*] axis.co.id |http_status_code|server_name|open_port|protocol_version|
+[*] axis.co.id|ip_web|http_status_code|server_name|open_port|protocol_version|
 ```
 # Support 
-Dengan star dan memakai tool ini sudah sangat mensupport saya:)
+Traktir buat semangat buat tool menarik lainya, terimakasih.
+- https://sociabuzz.com/wannazid
