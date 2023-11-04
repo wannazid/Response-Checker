@@ -1,4 +1,4 @@
-![alt text](https://github.com/wannazid/Response-Checker/blob/main/img.jpg)
+![alt text](https://github.com/wannazid/Response-Checker/blob/main/img-tool.jpg)
 ![](https://img.shields.io/badge/HostResponse-Version%202.0-orange)
 # Response Checker
 Response Checker merupakan tool berbasis CLI yang berfungsi untuk mendapatkan beberapa informasi header, sni, open port suatu website.
