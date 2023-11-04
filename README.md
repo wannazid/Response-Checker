@@ -6,6 +6,7 @@ Response Checker merupakan tool berbasis CLI yang berfungsi untuk mendapatkan be
 - Support input ip address in single/multi
 - Add result ip address domain
 - Code adjustments
+Untuk mendapatkan update bisa ke bagian realease.
 # Cara Install
 - Gunakan terminal contohnya jika di android : Termux.
 - Masuk Termux masukan command.
