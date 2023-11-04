@@ -3,7 +3,7 @@
 # Response Checker
 Response Checker merupakan tool berbasis CLI yang berfungsi untuk mendapatkan beberapa informasi header, sni, open port suatu website.
 # Apa yang baru?
-Untuk mendapatkan update terbaru bisa ke bagian release.
+Untuk mendapatkan update terbaru bisa ke bagian releases.
 - Support input ip address in single/multi
 - Add result ip address domain
 - Code adjustments
